@@ -1,2 +1,2 @@
 say:
-	@echo "Hello, World!"
+	@1echo "Hello, World!"
